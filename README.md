@@ -1,5 +1,5 @@
 # Password Checker
- A neat project that can help you to check if your passwords had ever been pwned.
+ **A neat project that can help you to check if your passwords had ever been pwned.**
  
  All you have to do is start the script from the terminal and write all the passwords you want to check.
  
